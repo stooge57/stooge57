@@ -1,3 +1,4 @@
+![pig](https://github.com/user-attachments/assets/aa605be0-c0c8-436d-903a-a0fdfa12a2d3)
 ## Hi there 
 Reading through The Git for dummies book👋
 
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
