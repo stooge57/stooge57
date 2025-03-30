@@ -1,4 +1,4 @@
-![pig](https://github.com/user-attachments/assets/aa605be0-c0c8-436d-903a-a0fdfa12a2d3)
+![pig](https://github.com/user-attachments/assets/04649417-6745-409e-bab7-7bad117793ac)
 ## Hi there 
 Reading through The Git for dummies book👋
 
