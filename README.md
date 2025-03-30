@@ -1,3 +1,4 @@
+![pig](https://github.com/user-attachments/assets/04649417-6745-409e-bab7-7bad117793ac)
 ## Hi there 
 Reading through The Git for dummies book👋
 
