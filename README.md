@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+Reading through The Git for dummies book👋
 
 <!--
 **stooge57/stooge57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
